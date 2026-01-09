@@ -88,7 +88,7 @@ Create a .env file in the root and add your environment variables:
     NEXT_PUBLIC_CLERK_SIGN_UP_URL=/sign-up
     NEXT_PUBLIC_CLERK_AFTER_SIGN_IN_URL=/dashboard
     NEXT_PUBLIC_CLERK_AFTER_SIGN_UP_URL=/onboarding
-# Add other keys if required
+
 
 4.Run the project
 
