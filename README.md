@@ -33,18 +33,19 @@ An intelligent, full-stack web application that offers personalized career guida
 
 ## 📁 Project Structure
 
+    ```text
+    ├── app/                # Application routes & pages
+    ├── components/         # Reusable UI components
+    ├── data/               # Static data or config
+    ├── hooks/              # Custom React hooks
+    ├── lib/                # Utilities & helpers
+    ├── prisma/             # Database schema & migrations
+    ├── public/             # Static assets
+    ├── .env                # Environment variables
+    ├── next.config.mjs     # Next.js config
+    ├── tailwind.config.mjs # Tailwind config
+    └── package.json        # Project metadata & scripts
 
-├── app/ # Application routes & pages
-├── components/ # Reusable UI components
-├── data/ # Static data or config
-├── hooks/ # Custom React hooks
-├── lib/ # Utilities & helpers
-├── prisma/ # Database schema & migrations
-├── public/ # Static assets
-├── .env # Environment variables
-├── next.config.mjs # Next.js config
-├── tailwind.config.mjs # Tailwind config
-└── package.json # Project metadata & scripts
 
 
 ---
